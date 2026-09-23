@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values-night/colors.xml – Màu sắc cho chế độ tối (Dark Mode) -->
+<resources>
+    <color name="primary">#64B5F6</color>
+    <color name="tertiary">#4DD0E1</color>
+    <color name="on_primary">#000000</color>
+    <color name="primary_container">#1E3A5F</color>
+    <color name="surface">#121212</color>
+    <color name="surface_variant">#1E1E1E</color>
+    <color name="divider">#383838</color>
+    <color name="muted">#A0AAB2</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="primary">#0468D7</color>
+    <color name="tertiary">#00A6A6</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#D6E6FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#EEF2F6</color>
+    <color name="divider">#D5DDE3</color>
+    <color name="muted">#5B6770</color>
+    <!-- Kiểu chữ tiêu đề dùng chung cho toàn bộ app -->
+    <style name="TitleText" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">A3_241A010541</string>
+    <string name="header_kicker">INT4211 – LẬP TRÌNH DI ĐỘNG</string>
+    <string name="header_title">Cổng thực hành LTDD</string>
+    <string name="avatar_text">LT</string>
+    <string name="login_title">Đăng nhập hệ thống</string>
+    <string name="login_subtitle">Nhập MSSV và mật khẩu để tiếp tục</string>
+    <string name="hint_student_id">Mã số sinh viên</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="remember_me">Ghi nhớ đăng nhập</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="or">hoặc</string>
+    <string name="login_school">Đăng nhập bằng tài khoản trường</string>
+    <string name="no_account">Chưa có tài khoản?</string>
+    <string name="register">Đăng ký</string>
+    <string name="student_name">Lương Văn Đô</string>
+    <string name="student_id_line">MSSV: 241A010541</string>
+    <string name="class_line">Lớp: CNTT – LTDD</string>
+    <string name="email_line">241A010541@vhu.edu.vn</string>
+    <string name="stat_labs_value">2</string>
+    <string name="stat_labs_label">Lab đã nộp</string>
+    <string name="stat_score_value">8.5</string>
+    <string name="stat_score_label">Điểm TB lab</string>
+    <string name="open_constraint">Xem bản dựng bằng ConstraintLayout</string>
+    <string name="constraint_title">Bản ConstraintLayout</string>
+    <string name="login_success">Đăng nhập (mô phỏng) thành công</string>
+</resources>

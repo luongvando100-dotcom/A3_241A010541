@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/dimens.xml – thang khoảng cách dùng chung, tránh số đo tùy tiện -->
+<resources>
+    <dimen name="space_sm">8dp</dimen>
+    <dimen name="space_md">12dp</dimen>
+    <dimen name="space_lg">20dp</dimen>
+    <dimen name="space_xl">32dp</dimen>
+</resources>
