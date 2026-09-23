@@ -26,4 +26,5 @@
     <string name="open_constraint">Xem bản dựng bằng ConstraintLayout</string>
     <string name="constraint_title">Bản ConstraintLayout</string>
     <string name="login_success">Đăng nhập (mô phỏng) thành công</string>
+    <!-- Hoan thien bai nang cao NC1 va NC3 - MSSV 241A010541 -->
 </resources>
