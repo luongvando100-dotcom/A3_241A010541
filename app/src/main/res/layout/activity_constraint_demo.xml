@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Man hinh ConstraintLayout - MSSV 241A010541 -->
 <!-- Lab A3 – Cùng phần form, dựng bằng ConstraintLayout (layout phẳng, không lồng nhau) -->
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
